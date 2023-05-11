@@ -1,4 +1,5 @@
 package com.example.affirmations.model
 
-data class Affirmation (val stringResouceId: Int) {
+data class Affirmation (val stringResourceId: Int) {
+
 }
